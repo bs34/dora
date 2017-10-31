@@ -4,7 +4,7 @@ The CWDS Dora provides RESTful services with search capabilities.
 
 ## Documentation
 
-The development team uses [Swagger](http://swagger.io/) for documenting the API.  
+The development team uses [Swagger](http://swagger.io/) (Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment) for documenting the API.  
 NOTE: At this time there is not a publicly available link to the documentation, a link will be provided as soon as one is available.
 
 Dora does not use any default index or document type. Its URL has the following format: `/dora/{index}/{type}/_search`.
